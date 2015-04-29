@@ -1,0 +1,22 @@
+<Menu>
+	<option>
+		<text>关闭windows Search</text>
+		<commond>net stop WSearch</commond>
+	</option>
+	<option>
+		<text>5分钟后自动关机</text>
+		<commond>shutdown -s -t 1000</commond>
+	</option>
+	<option>
+		<text>取消自动关机</text>
+		<commond>shutdown -a</commond>
+	</option>
+	<option>
+		<text>ping baidu</text>
+		<commond>ping www.baidu.com</commond>
+	</option>
+	<option>
+		<text>打开cmd</text>
+		<commond>cmd</commond>
+	</option>
+</Menu>
